@@ -6,7 +6,9 @@ Group project for Subject 20CYS202 - UI Design
 
 ##### Team Members
 
-<1. Gokul
-2. Ntin G R
-3. Suganth Sarvesh>
+<ol>
+  <li> Gokul </li>
+  <li> Ntin G R</li>
+  <li> Suganth Sarvesh></li>
+</ol>
 
