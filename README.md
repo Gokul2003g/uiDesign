@@ -9,6 +9,6 @@ Group project for Subject 20CYS202 - UI Design
 <ol>
   <li> Gokul </li>
   <li> Ntin G R</li>
-  <li> Suganth Sarvesh></li>
+  <li> Suganth Sarvesh</li>
 </ol>
 
