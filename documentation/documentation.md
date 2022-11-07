@@ -22,9 +22,12 @@ What users actually do within the site or app?
 
 The main purpose of the website is that end user should get to know about all the clubs in the college and it provide an easy way to enrol in the clubs.
 
-![](RackMultipart20221107-1-wo832h_html_2d3641078d6558f3.jpg) ![](RackMultipart20221107-1-wo832h_html_ad5dce02ea1acdb1.jpg) **SYSTEM PROTOTYPE:**
+**SYSTEM PROTOTYPE:**
 
-![](RackMultipart20221107-1-wo832h_html_ba97ea42a28188c9.jpg) ![](RackMultipart20221107-1-wo832h_html_9e1a1e9c8e40d1a4.jpg)
+<img src="../images/prototype/homePage.jpeg">
+<img src="../images/prototype/clubSection.jpeg">
+<img src="../images/prototype/clubDetails">
+<img src="../images/prototype/loginPage.jpeg">
 
 **DESCRIPTION:**
 
