@@ -12,4 +12,4 @@ Group project for Subject 20CYS202 - UI Design
   <li> Suganth Sarvesh</li>
 </ol>
 
-### Click to view <a href="../uiDesign/documentation/documentation.md">documentation</a>
+### Click to view <a href="/documentation/documentation.md">documentation</a>
